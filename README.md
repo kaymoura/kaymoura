@@ -5,9 +5,9 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaymoura&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="Kay-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kay-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kay-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Kay-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" height="128em" alt="Kay-gif" src="https://media.giphy.com/media/pg0qrHz9MlMKMij6Pv/giphy.gif?cid=790b761198b15f5dec6e2f8fdb13d7ea98339feda0484d53&rid=giphy.gif&ct=g">
 </div>
   
