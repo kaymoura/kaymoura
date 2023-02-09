@@ -9,6 +9,9 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kaymoura&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaymoura&layout=compact&langs_count=7&theme=jolly"/>
 </div>
+ 
+ ## Técnologias
+ 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Kay-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Kay-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,8 +23,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-orig
   <img align="center" alt="Kay-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 <!--  <img align="right" height="150em" alt="Kay-gif" style="border-radius:50px;" src="https://media.giphy.com/media/pg0qrHz9MlMKMij6Pv/giphy.gifcid=790b761198b15f5dec6e2f8fdb13d7ea98339feda0484d53&rid=giphy.gif&ct=g">  -->
 </div>
-  
-  ##
+ 
+ ## Colaborações
+ Confira meu projeto de TCC - [Clique aqui!](https://github.com/Livia-Andrade/clean-mapping)
  
 <div align="center">
 <!--   <a href="https://www.instagram.com/iamkaylanee/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
