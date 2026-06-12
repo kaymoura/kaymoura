@@ -7,7 +7,7 @@
  ## Técnologias Low Code
 
 <div style="display: inline_block" align="center"><br>
- <p> Automation Anywhere, Power Automate(Cloud e Desktop), Power Apps, RocketBot e PIX Robotics</p>
+ <p> Automation Anywhere, N8N, Power Automate(Cloud e Desktop), Power Apps, RocketBot e PIX Robotics</p>
  
  </div>
  
